@@ -1,0 +1,110 @@
+body{
+    background-color: #F8FAFC;
+    font-family: 'Open Sans', sans-serif;
+}
+.section .banner{
+    padding: 50px 0;
+}
+.section .banner .text-wrap{
+    padding: 50px 0;
+}
+.section .banner .text-wrap h1{
+    color: #253B56;
+    font-size: 52px;
+    font-weight: bold;
+}
+.section .banner .text-wrap p{
+    color: #253B56;
+}
+.section .banner .text-wrap a{
+    background-color: #3394FF;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 35px;
+    border-radius: 11px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+.section .banner .trusted h6{
+    color: #253B56;
+}
+.section .banner .trusted .rating{
+    display: flex;
+    align-items: center;
+}
+.section .banner .trusted .rating i{
+    color: #F9BD23;
+    padding: 0 5px 0 10px;
+    font-size: 20px;
+}
+.section .banner .trusted .rating span{
+    color: #253B56;
+}
+.section .banner .img-box img{
+    width: 100%;
+}
+.section .distance{
+    background-image: url('../images/distance_bg.png');
+    padding: 50px 0;
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+}
+.section .distance h2{
+    font-size: 32px;
+    font-weight: 500;
+}
+.section .distance .img-box img{
+    width: 100%;
+    margin: 50px 0;
+}
+.section .distance h4{
+    font-size: 32px;
+}
+.section .distance ul{
+    margin: 0;
+    padding: 50px 0;
+    display: flex;
+    justify-content: space-around;
+}
+.section .distance ul li{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.section .distance ul li img{
+    width: 50px;
+}
+.section .distance ul li span{
+    font-size: 18px;
+    padding: 0 10px;
+}
+.section .tour{
+    padding: 50px 0;
+    text-align: center;
+}
+.section .tour h2{
+    color: #253B56;
+    font-size: 35px;
+}
+.section .tour .panel{
+    padding: 50px 100px;
+    background-color: #fff;
+    border-radius: 11px;
+    margin: 50px 0;
+}
+.section .tour .panel .img-box img{
+    width: 100%;
+}
+.section .tour .panel .text-wrap {
+    padding: 50px 0;
+}
+.section .tour .panel .text-wrap h4{
+    font-weight: bold;
+    font-size: 25px;
+    color: #253B56;
+}
+.section .tour .panel .text-wrap p{
+    color: #253B56;
+    margin: 0;
+}
