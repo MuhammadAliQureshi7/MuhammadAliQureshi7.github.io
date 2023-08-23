@@ -108,3 +108,36 @@ body{
     color: #253B56;
     margin: 0;
 }
+.section .tour .panel .text-left{
+    text-align: left;
+    padding: 10px 0;
+}
+.section .tour .panel .text-left h5{
+    color: #3394FF;
+}
+.footer{
+    background-color: #3394FF;
+    padding: 50px 0;
+    color: #fff;
+    text-align: center;
+}
+.footer .logo{
+    width: 100px;
+    margin: 0 auto;
+}
+.footer .logo img{
+    width: 100%;
+}
+.footer .text-wrap{
+    padding: 30px 0 0;
+}
+.footer .text-wrap a{
+    background-color: #253B56;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+    border-radius: 11px;
+    display: inline-block;
+    padding: 15px 20px;
+    margin-top: 20px;
+}
