@@ -65,7 +65,7 @@ body{
     margin: 0;
     padding: 50px 0;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-evenly;
 }
 .section .distance ul li{
     display: flex;
@@ -88,7 +88,7 @@ body{
     font-size: 35px;
 }
 .section .tour .panel{
-    padding: 50px 100px;
+    padding: 75px 150px;
     background-color: #fff;
     border-radius: 11px;
     margin: 50px 0;
@@ -97,7 +97,7 @@ body{
     width: 100%;
 }
 .section .tour .panel .text-wrap {
-    padding: 50px 0;
+    padding: 50px 0 0;
 }
 .section .tour .panel .text-wrap h4{
     font-weight: bold;
